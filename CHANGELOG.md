@@ -1,3 +1,3 @@
 ### COMMIT
 
-[click here]( https://github.com/juankipediaT/pong/commit/c9c6b1b0b0c482cb870cc5bac70af34ed19b5616)
+[AI implementation](https://github.com/juankipediaT/pong/blob/3802dbf54365333cccf2d32c89d3c3675c8ae263/pong.c#L115)
